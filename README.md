@@ -1,3 +1,5 @@
+⚠️ Since [traefik.me doesn't provide keys anymore](https://gist.github.com/pyrou/4f555cd55677331c742742ee6007a73a?permalink_comment_id=5521661#gistcomment-5521661), this project is archived.
+
 # GoldenGateway
 Local gateway with Traefik and SSL
 
